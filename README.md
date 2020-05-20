@@ -1,2 +1,2 @@
-# ranna
+# Ranna ProKria
 Nutrient Rich Food Recipe
