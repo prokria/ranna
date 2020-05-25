@@ -8,13 +8,9 @@ module.exports = {
     },
     nav: [
       {
-        text: 'Blog',
+        text: 'প্রবন্ধ সমূহ',
         link: '/',
-      },
-      {
-        text: 'Tags',
-        link: '/tag/',
-      },
+      }
     ],
     footer: {
       contact: [
